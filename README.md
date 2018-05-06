@@ -33,6 +33,8 @@
 </p>
 
 ## Table of Contents
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/CrownBonded/materialize.svg)](https://greenkeeper.io/)
 - [Quickstart](#quickstart)
 - [Documentation](#documentation)
 - [Supported Browsers](#supported-browsers)
